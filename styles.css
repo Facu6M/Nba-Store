@@ -8,6 +8,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    background-color: #0D0403;
 }
 
 h1 {
@@ -29,6 +30,7 @@ h2 {
    color: white;
    padding-top: 20px;
    font-family: 'inconsolata';
+    font-size:55px;
 }
 
 
