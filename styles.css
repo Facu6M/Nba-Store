@@ -8,7 +8,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #0D0403;
+    background-color: black;
 }
 
 h1 {
@@ -25,7 +25,7 @@ nav {
 }
 
 h2 {
-   background-color: #0D0403;
+   background-color: black;
    text-align: center;
    color: white;
    padding-top: 20px;
@@ -38,7 +38,7 @@ main {
     margin-top: -21px;
     height: 100%;
     width: 100%;
-    background-color: #0D0403;
+    background-color: black;
     display: flex;
     flex-wrap: wrap;
 }
