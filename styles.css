@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=BIZ+UDPGothic:wght@700&family=Inconsolata&family=Koulen&family=Mukta&display=swap');
+
+
+
+
+
+
 body {
     margin: 0px;
     padding: 0px;
@@ -9,6 +16,7 @@ h1 {
     text-align: center;
     background-color: #520B01 ;
     padding-top: 25px;
+    font-family: 'Akshar';
 }
 
 nav {
@@ -19,6 +27,8 @@ h2 {
    background-color: #0D0403;
    text-align: center;
    color: white;
+   padding-top: 20px;
+   font-family: 'inconsolata';
 }
 
 
@@ -34,6 +44,7 @@ main {
     
 
 .container {
+    padding-top: 100px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -55,14 +66,15 @@ main {
 }
 
 h3{
-   height: 25px;
+   height: 55px;
    background-color: #6B0E0E;
-    padding: 20px;
+   padding-top: 15px;
     font-size: 23px;
     font-weight: 300;
     margin-top: -17px;
     width: 100%;
     text-align: center;
+    font-family: 'mukta';
 }
 
 
@@ -74,6 +86,7 @@ h4{
  font-size: 15px;
     font-weight: 300;
     background-color: #C43D1F;
+    font-family: 'tiro devanagari sanskrit';
 }
 
 a {
